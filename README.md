@@ -1,1 +1,1 @@
-# Manuel pour DaVinciResolve en FR avec TiddlyWiki
+Manuel FR pour DaVinciResolve - https://davinciresolve-tw.github.io/
